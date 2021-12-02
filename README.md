@@ -1,2 +1,2 @@
-# For Live Preview Of Project :- 
+# Live Demo :- 
 ## [Click Me!!!!!!!!](https://ujjwalsk.github.io/stellar/)  
